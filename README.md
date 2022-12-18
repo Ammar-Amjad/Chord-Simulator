@@ -9,5 +9,7 @@ Correct creation of chord with desired number of nodes and then calcualation of 
 # Steps for exection are given below:
 
 - Run the project by using commands in terminal:
+
 -> c(project3).
+
 -> project3:runApp( NumNodes, NumRequests).
