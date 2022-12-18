@@ -1,7 +1,7 @@
 # Chord-Simulator
 
 # Task: 
-To implement a simulation of the Chord Peer to Peer system and determine the convergence hops for message to traverse to destination.
+To implement an Erlang based simulation of the Chord Peer to Peer system and determine the convergence hops for message to traverse to destination.
 
 # What is Working?
 Correct creation of chord with desired number of nodes and then calcualation of the average hops required for a given number of requests where each node maintains a finger table consisting of logN nodes.
